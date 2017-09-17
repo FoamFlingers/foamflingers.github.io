@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Foam Flingers
+name: Foam Flingers Bucks
 
 # Short bio or description (displayed in the header)
 description: fantastic foam flinging fun
@@ -17,7 +17,7 @@ avatar: https://c2.staticflickr.com/8/7307/8730650800_7462bf7b12_b.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: foamflingers@gmail.com
+  email: foamflingersbucks@gmail.com
   facebook:
   github: FoamFlingers/foamflingers.github.io
   linkedin:
