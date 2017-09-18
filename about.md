@@ -8,4 +8,4 @@ Organising foam flinging events in the chilterns area.
 
 ### Contact me
 
-[foamflingers@gmail.com](mailto:email@domain.com)
+[foamflingersbucks@gmail.com](mailto:email@domain.com)
