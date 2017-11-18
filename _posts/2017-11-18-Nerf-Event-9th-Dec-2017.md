@@ -8,7 +8,7 @@ published: true
 ---
 Prepare for the next foam flingers bucks nerf event! On the 9th December 2017, we will be holding the 2017 Winter Warfare event. We hope you can make it! Don't forget to fill in your forms before the day.
 
-View the poster here: [https://goo.gl/RvtjeX](https://goo.gl/RvtjeX)
+View the poster here: [https://goo.gl/7M79Uo](https://goo.gl/7M79Uo)
 
 Follow this link for the adult registration: [https://goo.gl/pfgFuC](https://goo.gl/pfgFuC)
 
